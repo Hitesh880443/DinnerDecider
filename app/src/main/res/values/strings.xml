@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dinner Decider</string>
+    <string name="enter_food_name">Enter food name here</string>
+    <string name="add_food">Add Food</string>
+    <string name="decide">Decide</string>
+    <string name="lets_decide">Lets decide the dinner</string>
+    <string name="please_enter_something">Please enter something</string>
 </resources>
